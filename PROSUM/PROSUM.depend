@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1394733056 source:e:\codeblocks\prosum\main.cpp
+	<iostream>
+	<cstdio>
+

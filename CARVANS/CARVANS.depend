@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1386850496 source:d:\codeblocks\carvans\main.cpp
+	<iostream>
+	<cstdio>
+

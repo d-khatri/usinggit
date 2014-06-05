@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1392415420 source:d:\codeblocks\codq6\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<string>
+

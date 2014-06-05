@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1386752107 source:d:\codeblocks\points\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+	<cstdio>
+
+1386754626 source:d:\codeblocks\points\main2.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+	<cstdio>
+

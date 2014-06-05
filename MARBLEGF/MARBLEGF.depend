@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1387118963 source:d:\codeblocks\marblegf\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<string.h>
+	<vector>
+	<stdio.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1391167663 source:d:\codeblocks\knapsackparty\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+	<sstream>
+	<stack>
+	<math.h>
+

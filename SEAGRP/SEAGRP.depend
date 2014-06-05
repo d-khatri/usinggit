@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1390323528 source:d:\codeblocks\seagrp\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+	<sstream>
+	<stack>
+	<math.h>
+

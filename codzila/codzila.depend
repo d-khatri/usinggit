@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1392145150 source:d:\codeblocks\codzila\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<cstring>
+

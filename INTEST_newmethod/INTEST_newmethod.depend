@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1387998239 source:d:\codeblocks\intest_newmethod\main.cpp
+	<iostream>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<cstring>
+

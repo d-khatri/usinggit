@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1391965604 source:d:\codeblocks\fgfs\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<map>
+

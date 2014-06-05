@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1388391016 source:d:\codeblocks\mike1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+	<sstream>
+	<stack>
+

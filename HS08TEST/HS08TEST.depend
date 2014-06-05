@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1387989414 source:d:\codeblocks\hs08test\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+	<sstream>
+

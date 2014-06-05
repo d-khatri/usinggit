@@ -1,0 +1,70 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <cstdio>
+#include <algorithm>
+using namespace std;
+
+struct person{
+    int stime;
+    int ftime;
+    int apartment;
+};
+
+bool fun1(const person& lhs, const person& rhs)
+{
+  return lhs.apartment < rhs.apartment;
+}
+
+bool fun2(const person& lhs, const person& rhs)
+{
+  return lhs.ftime < rhs.ftime;
+}
+
+
+int solvedp(int spos,int epos,struct person*pointer){
+    int i,counter=0;
+    sort(pointer+spos,pointer+epos,fun2);
+    if(epos-1==spos)return 1;
+    else{
+        for(i=spos;i<(epos-1);i++){
+            if(pointer[spos+1].stime>=pointer[spos].ftime)counter++;
+        }
+        return counter;
+    }
+}
+
+int main()
+{
+
+    int t,n,k,i,j,scounter,fcounter,counter;
+    cin>>t;
+    while(t--){
+        counter=0;
+        cin>>n>>k;
+        person *pointer = new person[n];
+        for(i=0;i<n;i++){
+            cin>>pointer[i].stime;
+            cin>>pointer[i].ftime;
+            cin>>pointer[i].apartment;
+        }
+        sort(pointer,pointer+n, fun1);
+
+//        for(i=0;i<n;i++)cout<<pointer[i].stime<<"\t"<<pointer[i].ftime<<"\t"<<pointer[i].apartment<<endl;
+//        cout<<endl;
+
+        scounter=fcounter=0;
+        for(j=1;j<=k;j++){
+            for(i=scounter;i<n;i++){
+                if(pointer[i].apartment==j){fcounter++;}
+                else break;
+            }
+            //cout<<"start and fcounter is "<<scounter<<"\t"<<fcounter<<endl;
+            counter+=solvedp(scounter,fcounter,pointer);
+            //cout<<"dp sol is "<<counter<<solvedp(scounter,fcounter,pointer)<<endl;
+            scounter=fcounter;
+        }
+        cout<<counter<<endl;
+    }
+    return 0;
+}

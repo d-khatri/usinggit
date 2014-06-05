@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1387278782 source:d:\codeblocks\buying2\main.cpp
+	<iostream>
+	<algorithm>
+

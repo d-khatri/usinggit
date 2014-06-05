@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1386839123 source:d:\codeblocks\marcha2\main.cpp
+	<iostream>
+	<cstdio>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1392309512 source:d:\codeblocks\prime2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+

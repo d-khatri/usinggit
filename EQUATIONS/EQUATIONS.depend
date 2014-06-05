@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1389188101 source:d:\codeblocks\equations\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+	<sstream>
+	<stack>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393084068 source:d:\codeblocks\mirrors\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+

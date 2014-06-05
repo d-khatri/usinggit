@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392143294 source:d:\codeblocks\twodogs\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+

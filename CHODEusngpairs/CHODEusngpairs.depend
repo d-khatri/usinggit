@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1387182687 source:d:\codeblocks\chodeusngpairs\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<utility>
+	<cstdio>
+

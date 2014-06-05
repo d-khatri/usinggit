@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1386509519 source:d:\codeblocks\rectquer\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+

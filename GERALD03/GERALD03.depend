@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1387735635 source:d:\codeblocks\gerald03\main.cpp
+	<iostream>
+	<cstdio>
+	<stdio.h>
+	<string>
+	<cstring>
+	<sstream>
+	<cstdlib>
+

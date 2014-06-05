@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1399720705 source:e:\codeblocks\compiler\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<vector>
+	<string>
+	<stack>
+

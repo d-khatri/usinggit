@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392409575 source:d:\codeblocks\codq7\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+

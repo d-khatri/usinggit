@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392560281 source:d:\codeblocks\colarr\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+

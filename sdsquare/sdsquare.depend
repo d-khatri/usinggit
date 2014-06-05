@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1392041101 source:d:\codeblocks\sdsquare\main.cpp
+	<iostream>
+	<math.h>
+	<cstring>
+	<string>
+	<vector>
+	<cstdio>
+

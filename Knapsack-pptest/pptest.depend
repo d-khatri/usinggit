@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1392446477 source:d:\codeblocks\pptest\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<string>
+

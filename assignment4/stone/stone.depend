@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1399710521 source:c:\users\dheeraj khatri\desktop\hardware\assignment4\stone\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

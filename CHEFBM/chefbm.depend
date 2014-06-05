@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1399804823 source:e:\codeblocks\chefbm\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<vector>
+	<string>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1389031177 source:d:\codeblocks\plzlykme\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<cstring>
+	<algorithm>
+	<vector>
+	<sstream>
+	<stack>
+	<math.h>
+

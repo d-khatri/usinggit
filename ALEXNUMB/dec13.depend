@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1386924221 source:d:\codeblocks\alexnumb\main.c
+	<stdio.h>
+	<stdlib.h>
+

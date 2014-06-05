@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1394730392 source:e:\codeblocks\walk\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<fstream>
+

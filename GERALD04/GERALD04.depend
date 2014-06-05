@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1387733560 source:d:\codeblocks\working with string\gerald04\main.cpp
+	<iostream>
+	<cstdio>
+	<stdio.h>
+	<string>
+	<cstring>
+	<sstream>
+	<cstdlib>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1385681994 source:d:\codeblocks\bitset\main.cpp
+	<iostream>
+	<bitset>
+

@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-
+//test
 int main()
 {
     int i,t,n,x,*arry,sum,temp1,temp2,answer;
